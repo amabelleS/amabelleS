@@ -6,6 +6,7 @@ Hy, I'm Amabelle, and I'm a web developer:)
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on social network for gardeners and community gardens
 - 💬 Ask me everything about react.js
+- ⚡ CSS, HTML, JS, REST API (CRUD) React.js & hooks ,Redux, Node.js, Express, MongoDB, Mongoose, Firebase and more.
 - 📫 How to reach me: [My linkedIn](https://www.linkedin.com/in/amabelle-trachtenberg/)
 
 <!--
