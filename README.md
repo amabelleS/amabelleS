@@ -2,7 +2,7 @@
 
 Hy, I'm Amabelle, and I'm a web developer:) 
 
-- 🔭 I’m currently working on a e-commerce project, a react app app with Redux, Hooks, GraphQL, ContextAPI, Stripe, and Firebase
+- 🔭 I’m currently working on a e-commerce project, a react app with Redux, Hooks, GraphQL, ContextAPI, Stripe, and Firebase
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on social network for gardeners and community gardens
 - 💬 Ask me everything about react.js
