@@ -4,7 +4,7 @@ Hy, I'm Amabelle, and I'm a web developer:)
 
 
 - 🔭 I'm currently learnig and implemnting with small projects Docker & Kubernetes.
-- 🌱 I’m currently working on an e-commerce project, a react app with Styled-Conponents, Redux, Hooks, GraphQL, ContextAPI, Stripe, and Firebase
+- 🌱 I’m currently working on an e-commerce project, a react app with sass, Redux, Hooks, GraphQL, ContextAPI, Stripe, and Firebase
 - 🔭 Check out my npm project - writen in typescript, implemented with react, ESbuild, lerna, node.js and express, will be published to npm soon
 - 👯 I’m looking to collaborate on social network for gardeners and community gardens
 - 💬 Ask me everything about react.js
