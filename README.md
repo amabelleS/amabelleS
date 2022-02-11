@@ -7,7 +7,7 @@ Hy, I'm Amabelle, and I'm a Full-Sack / Front-End developer 😊
 - 👯 I’m looking for an open source project to contribute to.
 - 🌱 I’m looking to collaborate on social network for gardeners and community gardens, start a new one.
 - 💬 Ask me everything about react.js
-- ⚡ CSS, HTML, JS, REST API (CRUD), React.js & hooks ,Redux, Typescrips, Node.js, Express, MongoDB, Mongoose, Firebase, Docker & kubernetics, and more.
+- ⚡ CSS, HTML, JS, REST API (CRUD), React.js & hooks ,Redux, Typescrips, Node.js, Express, MongoDB, Mongoose, SQL, Firebase, Docker & kubernetics, and more.
 - 📫 How to reach me: [My linkedIn](https://www.linkedin.com/in/amabelle-trachtenberg/)
 
 <!--
