@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 ![git](images/git.svg)&nbsp;
 ![vscode](images/vscode.svg)&nbsp;
 
+![Metrics](/github-metrics.svg)
