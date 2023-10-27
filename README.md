@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 ![javascript](images/javascript.svg)&nbsp;
 ![typescript](images/typescript.svg)&nbsp;
-![reactjs](images/reactjs.svg)&nbsp;
 ![nextjs](images/nextjs.svg)&nbsp;
+![reactjs](images/reactjs.svg)&nbsp;
+![node.js](images/node.js.svg)&nbsp;
 ![redux](images/redux.svg)&nbsp;
 ![threejs](images/threejs.svg)&nbsp;
 ![html5](images/html5.svg)&nbsp;
