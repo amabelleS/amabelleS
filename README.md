@@ -37,4 +37,19 @@ Here are some ideas to get you started:
 ![git](images/git.svg)&nbsp;
 ![vscode](images/vscode.svg)&nbsp;
 
-![Metrics](/github-metrics.svg)
+## Github Stats
+| Stats
+
+| ![Amabelle's github stats](https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&theme=radical&include_all_commits=true) | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amabelleS&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amabelleS"></img>
+
+# Achievements
+[![@amabelles's Holopin badges](https://holopin.me/amabelles)](https://holopin.io/@amabelles)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amabelleS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Github Activity Graph
+
+[![Amabelle's github activity graph](https://activity-graph.herokuapp.com/graph?username=amabelleS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile views](https://gpvc.arturio.dev/amabelleS) 
