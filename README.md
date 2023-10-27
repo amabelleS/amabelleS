@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ![javascript](images/javascript.svg)&nbsp;
 ![typescript](images/typescript.svg)&nbsp;
 ![nextjs](images/nextjs.svg)&nbsp;
-![reactjs](images/reactjs.svg)&nbsp;
-[nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)&nbsp;
 ![redux](images/redux.svg)&nbsp;
 ![threejs](images/threejs.svg)&nbsp;
 ![html5](images/html5.svg)&nbsp;
