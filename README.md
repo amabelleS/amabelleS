@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hy, I'm Amabelle👋
-### & I'm a Full Stack Developer😊
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amabelle+👨‍💻;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+### I'm a Full Stack Developer😊
 
 - 👯 I'm currently collaborating on open-source projects:)
 - 👩‍💻 I'm working at a small startup company with react.js, matirial-ui, node.js & mongodb.
