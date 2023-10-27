@@ -47,9 +47,3 @@ Here are some ideas to get you started:
 # Achievements
 [![@amabelles's Holopin badges](https://holopin.me/amabelles)](https://holopin.io/@amabelles)
 [![trophy](https://github-profile-trophy.vercel.app/?username=amabelleS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-# Github Activity Graph
-
-[![Amabelle's github activity graph](https://activity-graph.herokuapp.com/graph?username=amabelleS&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Profile views](https://gpvc.arturio.dev/amabelleS) 
