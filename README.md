@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hy, I'm Amabelle👋
-### >& I'm a Full Stack Developer😊
+### & I'm a Full Stack Developer😊
 
 - 👯 I'm currently collaborating on open-source projects:)
 - 👩‍💻 I'm working at a small startup company with react.js, matirial-ui, node.js & mongodb.
