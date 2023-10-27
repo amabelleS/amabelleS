@@ -1,16 +1,3 @@
-### About me 👋
-
-Hy, I'm Amabelle, and I'm a Full-Sack / Front-End developer 😊
-
-- ✨ I'm currently learnig and implemnting Next.js in personal projects.
-- 👩‍💻 I'm working at a small startup company with react.js, matirial-ui, node.js & mongodb.
-- 💖 Check out my npm project - writen in typescript, implemented with react, ESbuild, lerna, node.js and express. published to npm.
-- 👯 I’m looking for an open source project to contribute to.
-- 🌱 I’m looking to collaborate on social network for gardeners and community gardens, start a new one.
-- 💬 Ask me everything about react.js
-- ⚡ CSS, HTML, JS, REST API (CRUD), React.js & hooks ,Redux, Typescrips, Node.js, Express, MongoDB, Mongoose, SQL, Firebase, Docker, and more.
-- 📫 How to reach me: [My linkedIn](https://www.linkedin.com/in/amabelle-trachtenberg/)
-
 <!--
 **amabelleS/amabelleS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hy, I'm Amabelle👋
+### >& I'm a Full Stack Developer😊
+
+- 👯 I'm currently collaborating on open-source projects:)
+- 👩‍💻 I'm working at a small startup company with react.js, matirial-ui, node.js & mongodb.
+- 💖 Next.js 14 with stable server components, yay! 
+- 📫 How to reach me: [My linkedIn](https://www.linkedin.com/in/amabelle-trachtenberg/)
+
 ### 🛠 Technologies and Tools
 
 ![javascript](images/javascript.svg)&nbsp;
