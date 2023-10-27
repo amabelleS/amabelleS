@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![typescript](images/typescript.svg)&nbsp;
 ![nextjs](images/nextjs.svg)&nbsp;
 ![reactjs](images/reactjs.svg)&nbsp;
-![node.js](https://en.wikipedia.org/wiki/File:Node.js_logo.svg#/media/File:Node.js_logo.svg)&nbsp;
+![nodejs](https://en.wikipedia.org/wiki/File:Node.js_logo.svg#/media/File:Node.js_logo.svg)&nbsp;
 ![redux](images/redux.svg)&nbsp;
 ![threejs](images/threejs.svg)&nbsp;
 ![html5](images/html5.svg)&nbsp;
