@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![git](images/git.svg)&nbsp;
 ![vscode](images/vscode.svg)&nbsp;
 
-## Github Stats
+## GitHub Stats
 | Stats                                                                                 | Languages                           |
 |---------------------------------------------------------------------------------------|-------------------------------------|
 | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&theme=radical&include_all_commits=true)              | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amabelleS&theme=radical&layout=compact) |
