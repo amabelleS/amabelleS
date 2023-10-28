@@ -23,11 +23,11 @@
 |---------------------------------------------------------------------------------------|-------------------------------------|
 | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&theme=radical&include_all_commits=true)              | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amabelleS&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amabelleS"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amabelleS&theme=radical"></img>
 
 # Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&locale=en" alt="amabelle" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amabelleS&theme=radical&show_icons=true&locale=en" alt="amabelle" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amabelleS&no-bg=true&margin-w=15&theme=radical&column=5" alt="github-profile-trophy" />
