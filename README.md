@@ -26,7 +26,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amabelleS"></img>
 
 # Achievements
-![![@amabelles's Holopin badges](https://github.com/amabelleS/amabelleS/assets/45571546/93f61a8e-485f-493f-905a-8b660166f42c)
+[![@amabelles's Holopin badges](https://github.com/amabelleS/amabelleS/assets/45571546/93f61a8e-485f-493f-905a-8b660166f42c)
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=amabelleS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
