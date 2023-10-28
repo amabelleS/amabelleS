@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&locale=en" alt="amabelle" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amabelleS&title=Commits,Issues,PullRequest,Reviews,Experience&no-bg=true&margin-w=15&theme=algolia&column=5" alt="github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amabelleS&no-bg=true&margin-w=15&theme=algolia&column=5" alt="github-profile-trophy" />
 </p>
 
 <!--
