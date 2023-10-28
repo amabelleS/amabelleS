@@ -15,7 +15,7 @@
 ### 🛠 Technologies and Tools
   
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,mysql,js,ts,react,next,nest,vue,redux,jest,css,sass,html,gita,github,vscode,figm,render,heroku&perline=5&theme=light" alt="https://skillicons.dev" />  
+  <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,mysql,js,ts,react,next,nest,vue,redux,jest,cypress,playwright,css,sass,html,git,github,vscode,figm,render,heroku&perline=5&theme=light" alt="https://skillicons.dev" />  
 </p>
 
 ## GitHub Stats
