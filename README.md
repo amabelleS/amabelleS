@@ -27,13 +27,15 @@
 
 # Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amabelleS&theme=radical&show_icons=true&locale=en" alt="amabelle" />
+  <img src="https://github.com/amabelleS/amabelleS/assets/45571546/98b15cce-1096-4a59-9a88-3277f4b3c7d8&theme=radical&show_icons=true&locale=en" alt="amabelle" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amabelleS&no-bg=true&margin-w=15&theme=radical&column=5" alt="github-profile-trophy" />
 </p>
 
 <!--
+![image](https://github.com/amabelleS/amabelleS/assets/45571546/98b15cce-1096-4a59-9a88-3277f4b3c7d8)
+
 ![@amabelles's Holopin badges](https://github.com/amabelleS/amabelleS/assets/45571546/93f61a8e-485f-493f-905a-8b660166f42c)
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=amabelleS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
