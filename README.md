@@ -22,7 +22,8 @@
 | Stats                                                                                 | Languages                           |
 |---------------------------------------------------------------------------------------|-------------------------------------|
 | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&theme=radical&include_all_commits=true)              | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amabelleS&theme=radical&layout=compact) |
-|![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amabelleS&theme=radical)|
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amabelleS&theme=radical)
 
 # Achievements
 <p align="center">
