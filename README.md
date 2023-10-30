@@ -8,7 +8,7 @@
 
 - 👯 I'm currently collaborating on open-source projects:)
 - 🌠 I'm working at a small startup company with react.js, matirial-ui, node.js & mongodb.
-- 💖 Next.js 14 with stable server components, yay! 
+- 💖 Next.js 14 💖
 - 📫 How to reach me: [My linkedIn](https://www.linkedin.com/in/amabelle-trachtenberg/)
 - 🌼[My portfolio](https://blog-portfolio-amabelles.vercel.app)
 
