@@ -30,7 +30,7 @@
   <img src="https://github.com/amabelleS/amabelleS/assets/45571546/98b15cce-1096-4a59-9a88-3277f4b3c7d8&theme=radical&show_icons=true&locale=en" alt="amabelle" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amabelleS&no-bg=true&margin-w=15&theme=radical&column=5" alt="github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amabelleS&no-bg=true&margin-w=15&margin-h=15&theme=radical&column=5" alt="github-profile-trophy" />
 </p>
 
 <!--
