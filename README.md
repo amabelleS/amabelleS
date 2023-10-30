@@ -18,14 +18,16 @@
   <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,react,next,nest,mongodb,mysql,postgres,postman,firebase,vue,redux,jest,docker,html,css,sass,styledcomponents,tailwind,git,github,md,vscode,figma,heroku,netlify,discord,stackoverflow&perline=10&theme=dark" alt="https://skillicons.dev" />  
 </p>
 
-## GitHub Stats
+### GitHub Stats
 | Stats                                                                                 | Languages                           |
 |---------------------------------------------------------------------------------------|-------------------------------------|
 | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api?username=amabelleS&show_icons=true&theme=radical&include_all_commits=true)              | ![Amabelle's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amabelleS&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amabelleS&theme=radical"></img>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amabelleS&theme=radical" alt="amabelleS streak stats" />
+</p>
 
-# Achievements
+### Achievements
 <p align="center">
   <img src="https://github.com/amabelleS/amabelleS/assets/45571546/98b15cce-1096-4a59-9a88-3277f4b3c7d8&theme=radical&show_icons=true&locale=en" alt="amabelle" />
 </p>
